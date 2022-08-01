@@ -6,6 +6,11 @@ So, to enable some of our very technical and ai-driven core features, we will ta
 
 Something great is in the making 🚀
 
+
+- [@digitty-io](https://github.com/digitty-io): platform, apps, SaaS backend, company related projects
+- [@digitty-org](https://github.com/digitty-org): Open Source projects & initiatives
+- [@digitty-forks](https://github.com/digitty-forks): forks of @digitty-io
+
 <!--
 
 **Here are some ideas to get you started:**
